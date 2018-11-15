@@ -1,7 +1,7 @@
 import $                from 'jquery';
 import log              from 'consolelog'
 
-const urlBase           = 'http://sim-rest.poiz.me/';   //http://poiz-shop.piz/ ';  //'http://sim-rest.poiz.me/'
+const urlBase           = 'http://sim-rest.poiz.me/';
 export default {
     $                   : $,
     log                 : log,
